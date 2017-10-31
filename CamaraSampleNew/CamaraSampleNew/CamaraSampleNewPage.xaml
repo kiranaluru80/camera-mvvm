@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:CamaraSampleNew" 
+    x:Class="CamaraSampleNew.CamaraSampleNewPage">
+    
+	<!--<StackLayout>
+        <Image x:Name="image" Source="Default.png" HeightRequest="50" WidthRequest="50"/>
+        <Button Text="Take Photo" Clicked="TakePhoto_Clicked"></Button>
+        <Button Text="Choose Image" Clicked="ChooseImage_Clicked"></Button>
+        <Button Text="Choose Video" Clicked="ChooseVideo_Clicked"></Button>
+        <Button Text="Choose Audio" Clicked="ChooseAudio_Clicked"></Button>
+        <Button Text="Choose and Resize Image" Clicked="ResizeImage_Clicked" ></Button>
+    </StackLayout>-->
+    
+        <StackLayout>
+        <Image x:Name="image" Source="{Binding ImageSource}" HeightRequest="50" WidthRequest="50"/>
+        <Button Text="Take Photo" Command="{Binding TakePhotoCommand}"></Button>
+        <Button Text="Choose Image" Command="{Binding ChooseImageCommand}"></Button>
+        <Button Text="Choose Video" Command="{Binding ChooseVideoCommand}"></Button>
+        <Button Text="Choose Audio" Command="{Binding ChooseAudioCommand}"></Button>
+        <Button Text="Choose and Resize Image" Command="{Binding ResizeImageCommand}"></Button>
+    </StackLayout>
+</ContentPage>

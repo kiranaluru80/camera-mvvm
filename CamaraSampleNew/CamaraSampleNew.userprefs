@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5B7E3B82-2CA5-4CAB-BB5F-DBEC3B66D647}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CamaraSampleNew/CamaraSampleNewPage.xaml.cs">
+    <Files>
+      <File FileName="CamaraSampleNew/CamaraSampleNewPage.xaml.cs" Line="35" Column="54" />
+      <File FileName="CamaraSampleNew/CamaraSampleNewPage.xaml" Line="25" Column="1" />
+      <File FileName="../../Desktop/projects/SilencerShopMobile/SilencerShop/ViewModels/SignInViewModel.cs" Line="13" Column="19" />
+      <File FileName="CamaraSampleNew/CamaraSampleNewPageViewModel.cs" Line="31" Column="48" />
+      <File FileName="../data-passing-master/ReadDataFromJsonAndListViewSorting-5-2/ReadDataFromJson/SecondPageViewModel.cs" Line="17" Column="3" />
+      <File FileName="../data-passing-master/ReadDataFromJsonAndListViewSorting-5-2/ReadDataFromJson/ViewModelBase.cs" Line="1" Column="1" />
+      <File FileName="CamaraSampleNew/ViewModelBase.cs" Line="20" Column="1" />
+      <File FileName="../data-passing-master/ReadDataFromJsonAndListViewSorting-5-2/ReadDataFromJson/SecondPage.xaml.cs" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/CamaraSampleNew/CamaraSampleNew/CamaraSampleNewPage.xaml.cs" relfile="CamaraSampleNew/CamaraSampleNewPage.xaml.cs" line="43" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/CamaraSampleNew/CamaraSampleNew/CamaraSampleNewPageViewModel.cs" relfile="CamaraSampleNew/CamaraSampleNewPageViewModel.cs" line="67" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CamaraSampleNew.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.799492FA-BBD5-4CC0-99BC-921A6D37899A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Droid/CamaraSampleNew.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
